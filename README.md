@@ -24,6 +24,8 @@ The Roulette Game is an application that simulates the popular casino game of ro
 
 The project is designed to be flexible and extendable, allowing for various betting strategies, player interactions, and game configurations.
 
+Reference: [Building Skills in Object-Oriented Design](https://slott56.github.io/building-skills-oo-design-book/build/html/index.html)
+
 ---
 
 ## Classes
