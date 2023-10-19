@@ -1,4 +1,8 @@
-# Roulette Game Project
+# Roulette Game
+
+<p align="center">
+<img src="https://t3.ftcdn.net/jpg/03/00/20/62/240_F_300206258_b1RhGTAJqFyKOtFSnqE3yrT2Ps3PIntj.jpg" width="700" height="250" border="10"/>
+</p>
 
 ## Table of Contents
 1. [Description](#description)
