@@ -22,7 +22,7 @@
 
 The Roulette Game is an application that simulates the popular casino game of roulette. Roulette is a game of chance where players place bets on various outcomes, and a spinning wheel with numbered pockets determines the results. This project provides a set of classes to model and simulate the game, including bets, outcomes, players, and the game itself.
 
-The project is designed to be flexible and extendable, allowing for various betting strategies, player interactions, and game configurations. Developers can use these classes to build different variations of roulette games, such as American, European, or French roulette, and implement their own custom features.
+The project is designed to be flexible and extendable, allowing for various betting strategies, player interactions, and game configurations.
 
 ---
 
